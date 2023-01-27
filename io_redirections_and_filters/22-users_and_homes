@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /home /etc/passwd
+cut -d : if 1,6 etc/passwd | sort 
