@@ -1,2 +1,2 @@
 #!/bin/bash
-grep u /etc/passwd
+ls -l /home /etc/passwd
