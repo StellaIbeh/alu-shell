@@ -2,13 +2,13 @@
 # Display "Best School" 10 times using a while loop.
 ## AT the 9th word, displays "Hi" before "Best School".
 count=0
-while [ $count -lt 10]
+while [ $count -lt 10 ]
 do
-  if  [ $count -eq 9]
+  if [ $count -eq 9 ]
   then
-      echo "Hi"
+    echo "Hi"
   fi
   echo "Best School"
   (( count++ ))
-done 
- 
+done
+
