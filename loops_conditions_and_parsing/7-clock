@@ -10,6 +10,4 @@ do
   do
    echo "$minute"
    (( "minute+=" ))
-  done
- done
-
+done
