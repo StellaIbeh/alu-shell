@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Display "Best School" 10 times using a while loop.
-## AT the 9th word, displays "Hi" before "Best School"
+## AT the 9th word, displays "Hi" before "Best School".
 count=0
 while [ $count -lt 10]
 do
