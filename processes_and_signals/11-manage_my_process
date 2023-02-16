@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #      Creates a file containing its PID in /var/run/my_process.pid
-#      Display manage_my_process started
+#      Displays  manage_my_process started
 #When passing the argument stop:
 #      Stops manage_my_process
 #      Deletes the file /var/run/my_process.pid
