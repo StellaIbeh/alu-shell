@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env bash
 #scripts that display I am alive! message and pause for 2 seconds
 do
    echo "I am alive!"
