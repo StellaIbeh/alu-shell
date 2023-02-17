@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
+#scripts that writes I am alive to the file /tmp/my_process
 #scripts that display I am alive! message and pause for 2 seconds
 do
-   echo "I am alive!"
+   echo "I am alive!" > /tmp/my_process
+   echo "I am alive"
    sleep 2 
 done
