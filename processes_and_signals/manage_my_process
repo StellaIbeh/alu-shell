@@ -1,0 +1,6 @@
+#!/usr/bin/env
+#scripts that display I am alive! message and pause for 2 seconds
+do
+   echo "I am alive!"
+   sleep 2 
+done
